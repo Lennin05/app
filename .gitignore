@@ -1,0 +1,28 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Dependencias instaladas por npm o yarn
+/package-lock.json
+/yarn.lock
+
+# Directorios de configuración del IDE
+.vscode/
+.idea/
+
+# Archivos de entorno (si usas dotenv para variables de entorno)
+.env
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Compilación de front-end (si tienes una carpeta build o dist)
+build/
+dist/
+
+# Logs y archivos de ejecución
+logs/
+*.log
